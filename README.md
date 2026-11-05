@@ -1,2 +1,3 @@
 # wyvern-website
-public website for wyvern
+
+official website for Wyvern
